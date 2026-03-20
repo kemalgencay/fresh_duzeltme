@@ -581,6 +581,9 @@
       "integrity": "sha512-g9ljZiwki/LfxmQADO3dEY1CbpmXT5Hm2fJ+QaGKwSXUylMybePR7/67YW7jOrrvjEgL1Fmz5kzyAjWVWLlucg=="
     }
   },
+  "remote": {
+    "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/brand-github.tsx": "3e7c2e085570ebe78bf72d7ba9ad77e6519930feff5f3b653c3ba5b29b1c863b"
+  },
   "workspace": {
     "dependencies": [
       "jsr:@fresh/core@^2.2.0",
